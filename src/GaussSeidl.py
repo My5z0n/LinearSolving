@@ -16,7 +16,7 @@ def GaussSeidl(N, a1, a2, a3, debug=False):
 
     err = 1
 
-    # numpy.linalg.solve
+
     xn1 = []
     xn1.append([])
     xn = []
